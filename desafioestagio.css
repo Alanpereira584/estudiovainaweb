@@ -1,0 +1,53 @@
+header{
+		margin: 30px;
+}
+.titulo{
+	display: flex;
+	justify-content: center;
+}
+.menu{
+	list-style: none;
+}
+.menu-item{
+	margin: 10px;
+}
+.caixa-maior-parag1{
+
+}
+.parag1{
+	width:;
+	height:;
+}
+.caixa-img1{
+	display: flex;
+	justify-content: center;
+}
+.imagem1{
+	width: 80%;
+	height: 70%;
+	border:solid;
+	border-width: 15px;
+	border-color: #ff9999;
+}
+.caixa-maior-img2{
+	background-image: url(imagem2);
+}
+.parag3{
+	width: 
+}
+.caixa-maior-img2{
+	background-image: url(/home/vai-na-web-05/Documentos/alan/gato2.jpeg);
+}
+}
+.imagem2{
+	width: 100%;
+	width: 100%;
+}
+.botão1{
+	display: flex;
+	justify-content: center;
+}
+.botão{
+	width: 50px;
+	
+}
